@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">threadSleep</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCXN0YXRlbWVudCA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5l
+Q3Vyc29yLCAic3RhdGVtZW50IiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQoNCi8v
+IHN0b3AgdGhlIG1haW4gdGhyZWFkIG9mIHRoZSBwcm9ncmFtIGZvciA1MDAwIG1pbGxpc2Vjb25k
+cyAoNSBzZWNvbmRzKQ0KdHJ5IHsNCglUaHJlYWQuc2xlZXAoNTAwMCk7DQp9IGNhdGNoIChJbnRl
+cnJ1cHRlZEV4Y2VwdGlvbiBlKSB7DQoJLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9j
+aw0KCWUucHJpbnRTdGFja1RyYWNlKCk7DQp9DQoNCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBw
+aXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBw
+aXBlbGluZUN1cnNvcl8xLCAic3RhdGVtZW50Iiwgc3RhdGVtZW50ICk7DQpwaXBlbGluZUN1cnNv
+cl8xLmRlc3Ryb3koKTs=</value>
+</Values>
